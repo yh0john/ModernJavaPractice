@@ -1,0 +1,2 @@
+public class JambdaEx1 {
+}
