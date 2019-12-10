@@ -1,0 +1,2 @@
+public class LambdaEx6 {
+}
