@@ -15,6 +15,6 @@ public class StreamEx4 {
                 .forEach(System.out::println);
         System.out.println();
 
-        
+
     }
 }
